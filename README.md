@@ -1,0 +1,1 @@
+Implementations of Bagging, Random Forest and AdaBoost classifiers.
